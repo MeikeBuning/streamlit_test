@@ -1,5 +1,4 @@
-streamlit>=1.0
-pandas>=1.0
-faker>=15.0
-matplotlib
-
+streamlit>=1.32.0
+pandas>=2.1.0
+plotly>=5.18.0
+matplotlib>=3.8.0
